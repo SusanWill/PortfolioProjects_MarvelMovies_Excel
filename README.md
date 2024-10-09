@@ -17,7 +17,7 @@ This is my first project in data analysis.
 
 ### Data Cleaning/Preparation
 Initial preparation included:
-•	Downloading the .csv data set and saving it as a .xslx sheet.
+•	Downloading the .csv data set and saving it as a .xlsx sheet.
 
 •	Reviewing the data headers, data types, and formatting.
 
